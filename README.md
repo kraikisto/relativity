@@ -1,2 +1,2 @@
 # relativity
-# needs sympy and numpy packets to work
+# needs sympy packet to work
